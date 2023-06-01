@@ -17,6 +17,7 @@ Here is a quick list of projects I have worked on and the languages/technologies
 * Multiplayer Tank Video Game - C#
 * Online Coop Spreadsheet - C#, C++
 * TA Application Website - C#, JavaScript, HTML/CSS, Bootstrap
+* Rocket League Visualization Website - JavaScript, HTML/CSS, Bootstrap
 * StatisGoat (capstone project) - C#, JavaScript, HTML/CSS, Python, Bootstrap
 
 
