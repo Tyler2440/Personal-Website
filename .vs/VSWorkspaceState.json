@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Personal Website",
+    "\\Personal Website\\ClientApp",
+    "\\Personal Website\\ClientApp\\src"
   ],
+  "SelectedNode": "\\Personal Website\\ClientApp\\src\\App.js",
   "PreviewInSolutionExplorer": false
 }

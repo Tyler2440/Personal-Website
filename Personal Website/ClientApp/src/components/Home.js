@@ -9,7 +9,6 @@ export class Home extends Component {
             <div id="colorlib-page">
                 <div id="container-wrap">
                     <div id="colorlib-main">
-                        <Projects></Projects>
                     </div>
                 </div>
             </div>

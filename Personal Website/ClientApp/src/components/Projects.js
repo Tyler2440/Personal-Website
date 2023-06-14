@@ -1,16 +1,23 @@
 ﻿import React, { Component } from 'react';
-import { Container } from 'reactstrap';
-import { NavMenu } from './NavMenu';
 
-export default class Projects extends Component {
+export class Projects extends Component {
     static displayName = Projects.name;
+
+    constructor(props) {
+        super(props);
+        this.state = {  };
+    }
+
+    getStatisGoat() {
+        return (<Project />)
+    }
 
     render() {
         return (
             <div class="container-fluid text-center">
-                <div class="row content">
+                <div className="row content">
                     <div class="col-sm-3 sidenav">
-                        <p><a href="#">Link</a></p>
+                        <p><a onClick=getStatisGoat>StatisGoat</a></p>
                         <p><a href="#">Link</a></p>
                         <p><a href="#">Link</a></p>
                     </div>
